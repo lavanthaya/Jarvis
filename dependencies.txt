@@ -1,0 +1,17 @@
+pip install numpy
+pip install nltk #natural language tool kit 
+pip install --upgrade tensorflow
+pip install tensorflow
+
+
+python shell:
+>>> import nltk
+>>> nltk.download('punkt')
+>>> nltk.download('wordnet')
+
+tts install bug fix for virtual environment
+pip install pyttsx3
+https://stackoverflow.com/questions/18907889/importerror-no-module-named-pywintypes
+
+Ref:
+https://morioh.com/p/669d9c8926d4?fbclid=IwAR0Zsf86NJEc8KMBhjm0BdjQ4_7-pmE5H1d_CJSBkdR0Nf_2MSolAZFWmus
